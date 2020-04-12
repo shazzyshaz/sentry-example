@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'sentry-example';
+  title = 'This is a Sentry Example App';
+
 }
+
